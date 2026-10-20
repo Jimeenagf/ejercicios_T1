@@ -149,7 +149,7 @@ git pull
 
 Un `fork` crea una copia de un repositorio de otra persona en nuestra propia cuenta de GitHub.
 
-Se utiliza para poder trabajar sobre un proyecto sin modificar directamente el repositorio original.
+Se utiliza para poder trabajar sobre un proyecto sin modificar directamente el repositorio original. Y sus commits no se reflejan en la tabla de actividad.
 
 Flujo habitual:
 
